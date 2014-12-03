@@ -4,6 +4,7 @@ LearnPy_Solution
 My solutions to David Beazley's "Learn Python Through Public Data Hacking" talk from PyCon US 2013
 
 References:
+
 1. "Learn Python Through Public Data Hacking" talk on pyvideo: http://pyvideo.org/video/1725/learn-python-through-public-data-hacking
 
 2. David Beazley on GitHub: https://github.com/dabeaz
