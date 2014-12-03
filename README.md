@@ -5,11 +5,17 @@ My solutions to David Beazley's "Learn Python Through Public Data Hacking" talk 
 
 References:
 1. "Learn Python Through Public Data Hacking" talk on pyvideo: http://pyvideo.org/video/1725/learn-python-through-public-data-hacking
+
 2. David Beazley on GitHub: https://github.com/dabeaz
+
 3. dabeaz's website: http://www.dabeaz.com/
+
 4. Original slides, data and code: http://www.dabeaz.com/pydata/
-4. For The Traveling Suitcase:
+
+5. For The Traveling Suitcase:
+
   i. The CTA URL: http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=22
+
 
 
 More updates and code modifications to come as I continue with the lecture.
